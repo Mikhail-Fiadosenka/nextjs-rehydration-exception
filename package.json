@@ -1,5 +1,5 @@
 {
-  "name": "custom-server-express",
+  "name": "nextjs-rehydration-exception",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
