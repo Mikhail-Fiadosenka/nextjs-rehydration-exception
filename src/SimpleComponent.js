@@ -8,6 +8,11 @@ export default class Container extends React.Component {
       throw new Error('fake client-side error');
     }
 
-    return <div>nested component</div>;
+    return (
+      <div>
+        Nested React component. It's essential to have exception thrown in a
+        nested component.
+      </div>
+    );
   }
 }
