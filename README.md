@@ -1,0 +1,1 @@
+# nextjs-rehydration-exception
